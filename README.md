@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on AI and reinforcement learning
+🌏 You can also find my work at http://codeberg.org/mrernst
+
 <!--
 **mrernst/mrernst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
